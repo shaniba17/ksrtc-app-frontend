@@ -1,5 +1,6 @@
 import './App.css';
 import LogIn from './components/LogIn';
+import SignUp from './components/SignUp';
 
 function App() {
   return (
@@ -9,3 +10,4 @@ function App() {
 }
 
 export default App;
+
